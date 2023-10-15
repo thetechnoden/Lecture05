@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Uni\\Lectures\\Lecture05\\Address\\Address.csproj": {}
+    "D:\\Uni\\Lectures\\Lecture05\\Task_01\\Task_01.csproj": {}
   },
   "projects": {
-    "D:\\Uni\\Lectures\\Lecture05\\Address\\Address.csproj": {
+    "D:\\Uni\\Lectures\\Lecture05\\Task_01\\Task_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Uni\\Lectures\\Lecture05\\Address\\Address.csproj",
-        "projectName": "Address",
-        "projectPath": "D:\\Uni\\Lectures\\Lecture05\\Address\\Address.csproj",
+        "projectUniqueName": "D:\\Uni\\Lectures\\Lecture05\\Task_01\\Task_01.csproj",
+        "projectName": "Task_01",
+        "projectPath": "D:\\Uni\\Lectures\\Lecture05\\Task_01\\Task_01.csproj",
         "packagesPath": "C:\\Users\\Razya_\\.nuget\\packages\\",
-        "outputPath": "D:\\Uni\\Lectures\\Lecture05\\Address\\obj\\",
+        "outputPath": "D:\\Uni\\Lectures\\Lecture05\\Task_01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Razya_\\AppData\\Roaming\\NuGet\\NuGet.Config",
